@@ -151,7 +151,7 @@ Número de Lista:(Ejercicios): 1:(35,19), 2:(46,36), 3:(33,47), 4:(46,44), 5:(37
 Cada ejercicio debe crearse en un archivo con el nombre del número de algoritmo y el título del algorimo. Por ejemplo, para el primer algoritmo llamado "Promedio", le correpondería el nombre de 01. Promedio.psc.
 
 Cuando sea necesario, corrija el algoritmo para que los cálculos se realizcen de manera correcta y genere la salida respectiva. Incluya las modificaciones para que el algoritmo se ejecute de manera iterativa y termine de manera elegante. Incluya los comentarios respectivos en cada parte y los datos para identificarlo a usted como autor de las modificaciones y al autor, con la referencia bibliográfica original. Por último, pruebe que los algoritmos son correctos.
-
+  
 Guarde el pseudocódigo del algoritmo (en formato psc) y el diagrama de flujo (como imagen) y suba sus archivos a su cuenta de Google Drive en el diretorio respectivo de la tarea y comparta el link con el profesor. https://drive.google.com/file/d/1GNTv0buINWFw15qZNEvNCj4b2g9fD9Eb/view?usp=drive_link 
 
 Práctica 2.5. De pseudocódigo a R. (Entrega: por definir; medio punto adicional).
