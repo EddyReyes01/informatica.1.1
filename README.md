@@ -15,7 +15,7 @@ Parte 1: Considere las siguientes preguntas guía como base y respóndalas con s
 ¿Cuáles fueron los factores económicos, políticos y sociales que llevaron al invento de la computadora digital?
 ¿Quiénes fueron Alan Turing y John Von Newmann y cuáles fueron sus aportes a la creación de la computadora y a las ciencias de la computación?
 ¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?
-
+https://onedrive.live.com/edit.aspx?resid=AE4FF6139C486987!173&ithint=file%2cdocx&ct=1696355519452&wdOrigin=OFFICECOM-WEB.MAIN.EDGEWORTH&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=57148792-4762-43c6-8fb2-a720f47ff610&wdo=2
 Telegram: <img src="https://github.com/jzavalar/Informatica/blob/main/images /telegram_logo.svg" alt="Telegram" width="30%"/> [jzavalar.t.me](https://jzavalar.t.me)
 Parte 2: Revise los antecedentes históricos de la Association for Computing Machinery, ACM. Luego, localice los siguientes tres recursos bibliográficos y haga su ficha bibliográfica en el formato APA:
 El artículo "The Science of Computing: What is Computer Science?" de Peter J. Denning en la revista American Scientist.
