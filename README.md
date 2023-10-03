@@ -40,7 +40,8 @@ Parte 1. Identifique sus necesidades de recursos de cómputo según los siguient
 Parte 2. Ponga un límite presupuestal de acuerdo a sus posibilidades y busque dos equipos nuevos y de segunda mano que cumplan con sus necesidades. Haga un presupuesto de cada componente. Cotice sus equipos en Mercado Libre.
 Parte 3. Haga una tabla comparativa con sus criterios de decisión y el resultado de su elección y comparta con su o sus compañeros sus resultados.
 Parte 4. Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos a su cuenta de GitHub, donde corresponda.
-Videoconferencia Corazón Resiliente por Claudia Hernández (23 de agosto de 2023: 12:30 a 14:00 hr).
+Videoconferencia Corazón Resiliente por Claudia Hernández (23 de agosto de 2023: 12:30 a 14:00 hr). ![image](https://github.com/EddyReyes01/informatica.1.1/assets/142960502/5a1d09ea-e832-4d63-a9e9-728cf927c75a)
+
 Resumen: Durante está plática te comparto mi camino de convertirme en artista digital con software libre.
 Unidad 2. Software
 Ontología del software
