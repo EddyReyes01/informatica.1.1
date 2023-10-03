@@ -28,7 +28,8 @@ Reflexione sobre las potenciales ventajas y desventajas.
 Parte 3: Reflexione sobre el cumplimiento del objetivo global de la práctica.
 Entregable 1. A partir de las partes 2 y 3, responda las preguntas planteadas en la Parte 1. Escríbalas en su cuaderno. Luego, haga su reporte de la práctica en su cuenta de GitHub, mediante el uso del lenguaje Markdown. Utilice las fotos de lo realizado en su cuaderno en un directorio llamado 'images' y enlácelas a su texto principal.
 Entregable 2: Haga un video a modo de tutorial que demuestre que realizó la actividad. Suba el video a su directorio Videos de GitHub en un directorio llamado 'videos' y enlácelo a su texto principal.
-Práctica 1.3. Partes y funciones de la computadora. (Entrega: 28 de agosto de 2023).
+Práctica 1.3. Partes y funciones de la computadora. (Entrega: 28 de agosto de 2023). ![image](https://github.com/EddyReyes01/informatica.1.1/assets/142960502/bfb7d8d0-bbb2-458e-98b0-e2655c1a7f1e)
+
 Objetivo: Identificar las partes y funciones de los varios tipos de computadoras modernas.
 Parte 1. Investigue e identifique las partes en una computadora de escritorio, una laptop, una tableta y un teléfono celular y elabore un collage a mano en su cuaderno, identificando las partes de cada tipo de computadora, de manera clara, legible y didáctica, en una página para tipo. Tome fotos.
 Parte 2. Aterrice la práctica documentando las partes de la(s) computadora(s) que tenga en su casa. Consiga los manuales de usuario del modelo respectivo y el manual de servicio del sitio del fabricante. Busque los videos sobre el cambio de disco duro, memoria u otros componentes que haya en YouTube que apliquen a su computadora. Haga una reflexión tipo tutorial sobre las partes de su computadora en un breve video.
