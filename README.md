@@ -1,4 +1,5 @@
 # informatica
+UNIDAD 1
 Tarea 1.1. La computadora y su contexto histórico.
 ![WhatsApp Image 2023-09-03 at 7 48 07 PM](https://github.com/EddyReyes01/informatica.1.1/assets/142960502/df033f81-5a2e-48b0-875f-1cc9e7e3f13b)
 Objetivo: Reflexionar sobre el contexto histórico de la computadora digital.
